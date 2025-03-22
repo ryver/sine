@@ -1,4 +1,3 @@
-[
    [
     {
         "nome": "SECRETARIA DO TRABALHO",
@@ -13,13 +12,13 @@
         "cardColor": "green"
     },
     {
-        "nome": "EMPREENDEDORISMO/CONTRATE.BA",
+        "nome": "EMPREENDEDORISMO / CONTRATE.BA",
         "link": "https://www.ba.gov.br/trabalho/contrateba",
         "icon": "./src/images/icons/transporte.svg",
         "cardColor": "pink"
     },
     {
-        "nome": "MICROCRÉDITO/CREDIBAHIA",
+        "nome": "MICROCRÉDITO / CREDIBAHIA",
         "link": "https://www.ba.gov.br/trabalho/214/credibahia",
         "icon": "./src/images/Bahia.png",
         "cardColor": "cyan lighten-4"
@@ -98,5 +97,4 @@
     }
     
 
-]
 ]
