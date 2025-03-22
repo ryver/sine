@@ -24,7 +24,7 @@ body {
     background-color: white;
     display: flex;
     width: 100%;
-    height: 200px;
+    height: 160px;
     overflow: hidden;
     align-items: center;
     justify-content: center;
@@ -42,7 +42,7 @@ body {
 
 /* Main */
 main {
-    flex: 1;
+    /* flex: 1; */
     padding: 40px 20px;
 }
 
