@@ -2,3 +2,4 @@
 */*.zip
 old/
 src/*/*.db
+html/.vscode

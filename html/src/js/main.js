@@ -2,7 +2,7 @@ fetch('./src/data/links.json')
     .then(response => response.json())
     .then(data => {
         if (!Array.isArray(data)) {
-            throw new Error('O JSON não contém um array válido.')
+            console.error('O JSON não contém um array válido.')
         }
 
         const container = document.querySelector('.list')
