@@ -8,15 +8,14 @@
 html,
 body {
     height: 100%;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
+    display: flex;
+    flex-direction: column;
 }
 
 body {
     font-family: Arial, sans-serif;
     background-color: #1a1b1b;
-
-    display: flex;
-    flex-direction: column;
 }
 
 /* Hero */
@@ -42,8 +41,11 @@ body {
 
 /* Main */
 main {
-    /* flex: 1; */
-    padding: 40px 20px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    /* padding: 40px 20px; */
 }
 
 .title {
@@ -112,7 +114,7 @@ footer {
     padding: 10px;
     text-align: center;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-    position: relative;
+    /* position: relative; */
     bottom: 0;
     width: 100%;
 }
@@ -140,7 +142,6 @@ footer p a {
 }
 
 @media (max-width: 340px) {
-
     .hero,
     main {
         display: none;
