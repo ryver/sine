@@ -1,99 +1,102 @@
 [
+   [
     {
-        "nome": "SECRETARIA DO TRABALHO​",
+        "nome": "SECRETARIA DO TRABALHO",
         "link": "https://www.ba.gov.br/trabalho/",
         "icon": "./src/images/icons/desktop.svg",
         "cardColor": "orange"
     },
     {
-        "nome": "VAGAS DO DIA ",
-        "link": "https://www.ba.gov.br/trabalho/280/vagas-do-dia-sinebahia ",
+        "nome": "VAGAS DO DIA",
+        "link": "https://www.ba.gov.br/trabalho/280/vagas-do-dia-sinebahia",
         "icon": "./src/images/icons/csg.svg",
         "cardColor": "green"
     },
     {
-        "nome": "EMPREENDEDORISMO/CONTRATE.BA​",
-        "link": "https://www.ba.gov.br/trabalho/contrateba ​​",
+        "nome": "EMPREENDEDORISMO/CONTRATE.BA",
+        "link": "https://www.ba.gov.br/trabalho/contrateba",
         "icon": "./src/images/icons/transporte.svg",
         "cardColor": "pink"
     },
     {
-        "nome": "MICROCRÉDITO/CREDIBAHIA​",
+        "nome": "MICROCRÉDITO/CREDIBAHIA",
         "link": "https://www.ba.gov.br/trabalho/214/credibahia",
         "icon": "./src/images/Bahia.png",
         "cardColor": "cyan lighten-4"
     },
     {
-        "nome": "EMPREGA BRASIL​",
-        "link": "https://empregabrasil.mte.gov.br/​​​",
+        "nome": "EMPREGA BRASIL",
+        "link": "https://empregabrasil.mte.gov.br/",
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
     },
     {
-        "nome": "CADASTRO SINE​",
+        "nome": "CADASTRO SINE",
         "link": "https://servicos.mte.gov.br/spme-v2/#/login",
         "icon": "./src/images/icons/mail.svg",
         "cardColor": "blue"
     },
     {
-        "nome": "ABONO SALARIAL​",
-        "link": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/abono-salarial ",
+        "nome": "ABONO SALARIAL",
+        "link": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/abono-salarial",
         "icon": "./src/images/logo_sei.png",
         "cardColor": "light-green accent-3"
     },
     {
-        "nome": "SEGURO-DESEMPREGO WEB​",
-        "link": "https://empregabrasil.mte.gov.br/82/seguro-desemprego/ ",
+        "nome": "SEGURO-DESEMPREGO WEB",
+        "link": "https://empregabrasil.mte.gov.br/82/seguro-desemprego/",
         "icon": "./src/images/logo-diario-oficial.png",
         "cardColor": "blue-grey"
     },
     {
         "nome": "PORTAL BA.GOV",
-        "link": "https://www.ba.gov.br  ",
+        "link": "https://www.ba.gov.br",
         "icon": "./src/images/Bahia.png",
         "cardColor": "purple"
-    }
+    },
     {
-        "nome": "CARTEIRA DE IDENTIDADE NACIONAL​",
-        "link": "https://www.ba.gov.br/servico/dpt/obter-1-via-da-carteira-de-identidade-nacional-cin ",
+        "nome": "CARTEIRA DE IDENTIDADE NACIONAL",
+        "link": "https://www.ba.gov.br/servico/dpt/obter-1-via-da-carteira-de-identidade-nacional-cin",
         "icon": "./src/images/Bahia.png",
         "cardColor": "cyan lighten-4"
     },
     {
-        "nome": "DETRAN - 1ª HABILITAÇÃO​​",
-        "link": "https://www.ba.gov.br/servico/detran/detran-habilitacao-1-habilitacao-permissao-p-dirigir ​",
+        "nome": "DETRAN - 1ª HABILITAÇÃO",
+        "link": "https://www.ba.gov.br/servico/detran/detran-habilitacao-1-habilitacao-permissao-p-dirigir",
         "icon": "./src/images/icons/desktop.svg",
         "cardColor": "orange"
     },
     {
-        "nome": "REGULARIZAR CADASTRO NO CPF​​",
+        "nome": "REGULARIZAR CADASTRO NO CPF",
         "link": "https://www.ba.gov.br/servico/pavpm/regularizar-cadastro-no-cpf",
         "icon": "./src/images/icons/mail.svg",
         "cardColor": "blue"
     },
     {
-        "nome": "PORTAL GOV.BR​",
-        "link": "https://www.gov.br/pt-br ​​​",
+        "nome": "PORTAL GOV.BR",
+        "link": "https://www.gov.br/pt-br",
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
     },
     {
-        "nome": "CTPS DIGITAL​",
-        "link": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho ​​​",
+        "nome": "CTPS DIGITAL",
+        "link": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
     },
     {
-        "nome": "CNH DIGITAL​",
-        "link": "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito  ​​​",
+        "nome": "CNH DIGITAL",
+        "link": "https://www.gov.br/pt-br/servicos/consultar-online-dados-de-sua-habilitacao-de-transito",
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
     },
     {
-        "nome": "ESCOLA DO TRABALHADOR 4.0​​",
-        "link": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/qualificacao-profissional/caminho-digital "
+        "nome": "ESCOLA DO TRABALHADOR 4.0",
+        "link": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/qualificacao-profissional/caminho-digital",
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
-    },
+    }
+    
 
+]
 ]
