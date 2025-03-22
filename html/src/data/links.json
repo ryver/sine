@@ -1,4 +1,4 @@
-   [
+[
     {
         "nome": "SECRETARIA DO TRABALHO",
         "link": "https://www.ba.gov.br/trabalho/",
@@ -42,16 +42,16 @@
         "cardColor": "light-green accent-3"
     },
     {
-        "nome": "SEGURO-DESEMPREGO WEB",
-        "link": "https://empregabrasil.mte.gov.br/82/seguro-desemprego/",
-        "icon": "./src/images/logo-diario-oficial.png",
-        "cardColor": "blue-grey"
-    },
-    {
         "nome": "PORTAL BA.GOV",
         "link": "https://www.ba.gov.br",
         "icon": "./src/images/Bahia.png",
         "cardColor": "purple"
+    },
+    {
+        "nome": "SEGURO DESEMPREGO WEB",
+        "link": "https://empregabrasil.mte.gov.br/82/seguro-desemprego/",
+        "icon": "./src/images/logo-diario-oficial.png",
+        "cardColor": "blue-grey"
     },
     {
         "nome": "CARTEIRA DE IDENTIDADE NACIONAL",
@@ -95,6 +95,4 @@
         "icon": "./src/images/logo-rh-bahia.png",
         "cardColor": "indigo lighten-2"
     }
-    
-
 ]

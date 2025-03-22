@@ -17,7 +17,7 @@ body {
 
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Garante altura mínima para o conteúdo */
+    min-height: 100vh;
 }
 
 /* Hero */
@@ -30,17 +30,15 @@ body {
     align-items: center;
     justify-content: center;
     gap: 24px;
-    position: sticky; /* Alterado para sticky */
-    top: 0; /* Fixa no topo */
-    z-index: 10; /* Valor alto para garantir que fique acima de tudo */
+    position: sticky;
     overflow: visible;
-    flex-shrink: 0; /* Impede que o hero encolha */
+    flex-shrink: 0;
 }
 
 .hero .logo {
     width: 200px;
-    height: auto; /* Garante proporção correta */
-    object-fit: contain; /* Mantém a proporção da imagem */
+    height: auto;
+    object-fit: contain;
 }
 
 .logo.logo-fat{
@@ -54,7 +52,7 @@ main {
     display: flex;
     flex: 1;
     flex-direction: column;    
-    padding: 40px 20px;
+    padding: 20px;
     width: 100%;
 }
 
@@ -63,20 +61,20 @@ main {
     width: 100%;
     align-items: center;
     justify-content: center;
-    padding-bottom: 14px;
-    font-size: 40px;
+    padding-bottom: 12px;
+    font-size: 36px;
     color: #fff;
 }
 
 .list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    gap: 16px;
 }
 
 .card {
     color: #eee;
-    border: 4px solid #ddd;
+    border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -114,7 +112,7 @@ main {
 }
 
 .info h2 {
-    font-size: 20px;
+    font-size: 18px;
     flex: 1;
     text-align: center;
 }
