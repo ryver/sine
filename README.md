@@ -1,2 +1,0 @@
-# sine
-sine
