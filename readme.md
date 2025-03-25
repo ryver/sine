@@ -2,7 +2,6 @@
 
 ## Estrutura no container
 
-
     projeto/
     ├── Dockerfile
     ├── nginx.conf
@@ -17,7 +16,6 @@
             │   └── main.js
             └── images/
                 └── ...
-
 
 ## Comandos para criação do container (ryver)
 
@@ -43,3 +41,7 @@ ou
 ```bash
 docker-compose up -d
 ```
+
+## Fontawesome
+
+[Icones disponiveis](https://fontawesome.com/search?ic=free)

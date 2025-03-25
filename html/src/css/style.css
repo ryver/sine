@@ -77,10 +77,10 @@ main {
     overflow: hidden;
     transition: transform 0.2s;
 }
-
+/* 
 .card:hover {
     transform: scale(1.1);
-}
+} */
 
 .restrito {
     background-color: #690d0d;
@@ -100,6 +100,13 @@ main {
     align-items: center;
     justify-content: center;
     width: 100%;
+}
+
+.info i,
+.info .fa-solid {
+    color: #eee;
+    font-size: 40px;
+    margin-right: 10px;
 }
 
 .info img {

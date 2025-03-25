@@ -23,9 +23,8 @@ fetch('./src/data/links.json')
             const info = document.createElement('div')
             info.className = 'info'
 
-            const img = document.createElement('img')
-            img.src = link.icon || './src/images/icons/desktop.svg'
-            img.alt = link.nome || 'Ícone'
+            const icon = document.createElement('i')
+            icon.className = `fa-solid fa-${link.icon}`
 
             const title = document.createElement('h2')
             title.textContent = link.nome || 'Sem título'
@@ -34,7 +33,7 @@ fetch('./src/data/links.json')
             type.className = 'type'
             type.textContent = link.type || ''
 
-            info.appendChild(img)
+            info.appendChild(icon)
             info.appendChild(title)
             anchor.appendChild(info)
             anchor.appendChild(type)

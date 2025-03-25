@@ -2,19 +2,19 @@
     {
         "nome": "SECRETARIA DO TRABALHO",
         "link": "https://www.ba.gov.br/trabalho/",
-        "icon": "./src/images/icons/desktop.svg",
+        "icon": "house",
         "cardColor": "orange"
     },
     {
         "nome": "VAGAS DO DIA",
         "link": "https://www.ba.gov.br/trabalho/280/vagas-do-dia-sinebahia",
-        "icon": "./src/images/icons/csg.svg",
+        "icon": "briefcase",
         "cardColor": "green"
     },
     {
         "nome": "EMPREENDEDORISMO / CONTRATE.BA",
         "link": "https://www.ba.gov.br/trabalho/contrateba",
-        "icon": "./src/images/icons/transporte.svg",
+        "icon": "city",
         "cardColor": "pink"
     },
     {
